@@ -1,0 +1,25 @@
+{
+  "name": null,
+  "description": null,
+  "image": null,
+  "license": null,
+  "animation_url": null,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": null
+    },
+    {
+      "trait_type": "STR",
+      "value": null
+    },
+    {
+      "trait_type": "DEF",
+      "value": null
+    },
+    {
+      "trait_type": "AGI",
+      "value": null
+    }
+  ]
+}
