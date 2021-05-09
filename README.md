@@ -19,4 +19,5 @@ Nfts mages work similarly to the mushroom, but each mage has a unique material i
 ![Captura de Tela (72)](https://user-images.githubusercontent.com/52639395/117542951-15a44b80-aff1-11eb-929d-1e1ae529b186.png)
 The game have any mage storaded insed the games, they are loaded in real time into game using 3d glTF files.
 ![gitfMp](https://user-images.githubusercontent.com/52639395/117552246-8adb4500-b020-11eb-8c8f-fdf4506bf0c2.gif)
-
+[Demo Link](https://lucasespinosa28.github.io/mageApp/)
+### [Download the game](https://github.com/lucasespinosa28/3dNft/archive/refs/tags/0.1.zip)
