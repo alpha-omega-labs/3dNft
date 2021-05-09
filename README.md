@@ -13,7 +13,7 @@ with 1 mesh 32(16+16) you have 256 combination of mushroom nft, how we have 1 me
 ![Captura de Tela (68)](https://user-images.githubusercontent.com/52639395/117542295-6c5c5600-afee-11eb-9c70-1424ab37468a.png)
 
 ## Mage
-the nft's mages work similar of musshrom but every mage have a unique metarial (em vez de ) textures!!
+the nft's mages work similar to mushroom but every page have a unique material instead of textures !! 
 ### [Demo Link](https://lucasespinosa28.github.io/mageApp/)
 ![Captura de Tela (71)](https://user-images.githubusercontent.com/52639395/117542948-13da8800-aff1-11eb-9b95-586eca72b949.png)
 ![Captura de Tela (72)](https://user-images.githubusercontent.com/52639395/117542951-15a44b80-aff1-11eb-929d-1e1ae529b186.png)
